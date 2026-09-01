@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_title">JARVIS</string>
+    <string name="jarvis_subtitle">ADVANCED AI VOICE INTERFACE</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_listening">LISTENING...</string>
+    <string name="status_processing">PROCESSING QUERY...</string>
+    <string name="status_speaking">SYNTHESIZING AUDIO...</string>
+    <string name="mic_button_desc">Activate JARVIS voice recognition</string>
+    <string name="stop_speaking_desc">Stop audio synthesis</string>
+    <string name="clear_history_desc">Clear conversation stream</string>
+</resources>
+
